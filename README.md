@@ -1,4 +1,4 @@
-![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/224bd8bd-a5fa-467a-bfa3-fc3f474d4511)![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/87f80fec-615a-48c5-b6cf-f5dc789b243d)# Computer_literacy1
+# Computer_literacy1
 컴활1급 문풀
 
 [21년~23년 기출문제](https://m.blog.naver.com/cyscys80/223049831021)
