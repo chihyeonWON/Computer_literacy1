@@ -1,4 +1,4 @@
-# Computer_literacy1
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/d1e3b3a7-bca3-4b88-9d64-9010011e17b5)# Computer_literacy1
 컴활1급 문풀
 
 [21년~23년 기출문제](https://m.blog.naver.com/cyscys80/223049831021)
@@ -97,6 +97,48 @@
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/967ae17f-423a-4047-bbb3-5a474baab9e3)
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/9ec1620f-4939-4cb5-8385-43485a9692bf)
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/e15034ea-84a7-4fac-9926-9d98ca323896)
+
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/ce0753de-9aeb-4a86-b104-c284dd2494bf)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/4b0e9361-802e-45b7-8396-10d3500e7287)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/1f33be67-be65-4664-9d53-5267bd328631)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/b3442594-2e7e-4f43-a9ea-bf7f1fb4244e)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/01033831-db9a-4457-ba79-cdf49e66e989)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/2ac4ed8b-8a6d-4af8-8b01-12dd1512c781)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/72c2be56-9a90-4ee7-8861-549cde118214)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/d5925264-f895-4867-b911-c9913939d1e1)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/5f3eef87-4670-4a88-a914-d53ccde609e1)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/b4881a52-f653-4e9f-9645-56194037f7d6)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/c0675458-73b3-4d75-98be-ad8285a067a8)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/7c885e37-c2d7-40a2-bebf-703dc8dc4644)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/dba99686-8f7b-4a03-8e43-8c0d8f60447f)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/a371f3ec-a03e-4c62-b29e-83c9a9b69538)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/da8e5657-b452-4d0b-9561-9221624d0bd6)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/a59377b3-c21e-44d8-8af2-d80a3c39feb4)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/efa3dabc-a10d-4cc4-a882-a843c2af7610)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/7856893f-2031-4492-ad9b-bebd017d4e53)
+
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/49d16ea3-221d-4ec6-a0bb-6c21a7cb22bf)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/94cd34e5-3345-4912-addf-bdf85efc7340)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/3e9af250-ffc7-4b81-b0bf-4562fdc6e77c)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/8d11bf3e-fc03-4bf6-94d2-91d7cdadf229)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/9cdf326f-9538-4c82-9e4d-fd2376eded47)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/d70ccd57-6007-49f5-8918-f37b790e395a)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/b95b1ca1-5ff3-4506-b010-67f88983c7fc)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/354a8cc9-3bb1-4930-b0e6-f138fd048aaf)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/db5a7ff2-047c-4e57-b83b-ee8602de6bff)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/afeb6bf0-36f5-4bfd-9a8c-961c85039479)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/7b6ee613-da60-4921-bfc6-d44e6d8af33a)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/3fe00525-b1a6-40f1-a6f8-1571cfeb77a6)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/f5ef2a9d-73fd-4a56-9476-7d9bd58ba94e)
+
+
+
+
+
+
+
+
+
 
 
 
