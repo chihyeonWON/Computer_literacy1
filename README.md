@@ -139,9 +139,32 @@
 
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/29097fbb-0024-41cf-9815-3dbad2c70350)
 
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/73e15329-8f54-4c11-b0d8-9ccb4a64271d)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/bb71f8b5-4329-4997-9c5f-f90cc47b2d18)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/66f42afc-d4bf-4f22-8ab3-7e87f9ecb971)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/7a414a4d-3adb-4b8c-8a7a-eb869f872b9c)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/37e682e1-20c7-4490-9a73-7d4a06d28123)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/d9a4e298-7125-49bb-bed8-3a8e9ecab08b)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/88c205c6-2dbb-4241-a55d-e75a93e9c0e7)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/8178c2d5-9d6c-4e1c-9b81-eadb9bede732)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/062fa97e-f313-43df-b6d9-3f9b1e681efd)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/b28dd7e4-85bc-4b7d-8db7-3f8df36f2ce0)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/6ee9f2b3-8543-43ec-97a9-6d6fa02d58ae)
 
-
-
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/aaadc990-0c39-4683-8764-d8b1971732e6)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/8eac3b16-39a7-445d-98d7-368b06d039b8)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/28c3724f-e93c-40c8-bcff-8ffcdd110a9e)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/a3959b6f-756c-486a-a7dd-b86e60c8713d)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/8ac6f812-7d37-4bf5-96a2-94d3919bff91)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/97562adf-de35-45f4-8338-f20a47d0073c)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/684abc1a-3a01-449b-a952-ebca6e87801d)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/6012c4a9-8c2c-4639-ab75-191db339076d)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/fbf185af-887f-4b0b-ad85-7cc55f1d22d1)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/94aa3631-8675-4650-8c88-aabaa954bbb8)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/288a2aa3-3d81-46ae-8bd3-04f2e530718e)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/4beb4b86-8442-404b-a756-ff9e44497449)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/ac23d3d3-e5df-4a61-90b1-779f5c3e94d8)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/fb2fa5dc-e1a0-45d9-9e1e-cd21060587f4)
 
 
 
