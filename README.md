@@ -1,4 +1,4 @@
-![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/d1e3b3a7-bca3-4b88-9d64-9010011e17b5)# Computer_literacy1
+# Computer_literacy1
 컴활1급 문풀
 
 [21년~23년 기출문제](https://m.blog.naver.com/cyscys80/223049831021)
@@ -131,6 +131,13 @@
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/3fe00525-b1a6-40f1-a6f8-1571cfeb77a6)
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/f5ef2a9d-73fd-4a56-9476-7d9bd58ba94e)
 
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/812d70fc-1054-4665-af43-ee8d70f0f38d)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/b42a1ce1-7480-4806-b802-6fb4540c513a)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/328c7062-05f4-4b44-bdf1-fa455f024782)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/d68fa8d0-185e-48ed-9658-96e4df3abb78)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/74373775-f6da-4816-b1a6-fa21b8e5c753)
+
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/29097fbb-0024-41cf-9815-3dbad2c70350)
 
 
 
