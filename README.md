@@ -380,6 +380,16 @@
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/4b9b3c42-f494-4d2d-ac1b-0aa173ce34de)
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/78a68ee9-6667-483e-97a0-0e993604a7b4)
 
+## 자주 틀리는 문제
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/4da5f617-b0f9-423e-bbee-b2c8f48572f9)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/1a7cc28b-08b6-4f7e-a8be-93f0490aea1d)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/ad0707cf-3721-474e-9c67-1d4357fdfc0c)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/5d041985-b103-4163-a801-6bc273f198b5)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/6beebf20-2404-4b87-8e13-be02a118e60b)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/caf457ad-7476-4baa-adc5-3a41e8fb3c2d)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/deeb8cbf-aa64-4b42-9fdf-25a71b9d9566)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/91f87bf2-8f86-4fb5-8292-579072ed4739)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/ca84cba7-1192-482d-b545-67ad56ecf4d3)
 
 
 
