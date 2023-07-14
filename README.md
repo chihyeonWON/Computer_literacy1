@@ -397,6 +397,8 @@
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/3611ba89-4c23-421c-b40e-908b84b1f6c2)
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/726422a5-1d5d-45e6-b319-ef702efd1aeb)
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/7d6c0904-b538-402c-822d-f1fbbdb7910a)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/eaf94d57-ef00-41c2-83ef-7fb6ac344547)
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/606c35f9-6636-411a-a35f-3c0318514047)
 
 
 
