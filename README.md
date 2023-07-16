@@ -2,6 +2,8 @@
 컴활1급 문풀
 
 [21년~23년 기출문제](https://m.blog.naver.com/cyscys80/223049831021)
+## 2023년 07-15 시험 필기 합
+![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/be686fcd-9c5d-4323-b788-15ceede5baaa)
 
 ## 2020년 07월 04일 필기
 ![image](https://github.com/chihyeonWON/Computer_literacy1/assets/58906858/965e1cf2-c1be-4d38-82f3-d4333908f984)
